@@ -35,3 +35,7 @@ Nine calculated fields were used in total. These include YTD Total Sales, YTD Ca
 ![Cars sold growth](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/8fa5c775-206e-43ad-a0f9-11722301b993)
 
 ![Average growth](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/8be04f51-efdd-4bb3-8838-8bb58ac27681)
+
+## Dashboard Insights
+
+
