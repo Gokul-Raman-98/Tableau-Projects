@@ -38,4 +38,6 @@ Nine calculated fields were used in total. These include YTD Total Sales, YTD Ca
 
 ## Dashboard Insights
 
-
+1. SUVs and Hatchback model cars made the maximum YTD sales.
+2. Pale white color is the most preferred color of the customers ireespective of any brand.
+3. Chevrolet has sold the most cars and made the Maximum YTD car sales.
