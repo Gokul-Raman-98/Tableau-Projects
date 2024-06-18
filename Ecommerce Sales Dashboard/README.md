@@ -5,17 +5,17 @@ You can view the dashboard on my Tableau viz website : https://public.tableau.co
 
 
 ## Project Description
-### Sales analysis of different Consumer, Home Office and Corporate products for the Year 2016 and 2017
+### Sales analysis of different Consumer, Home Office and Corporate products for the Year 2016 and 2017.
 
-1. The KPI Banner shows YTD Total Sales, YoY Sales %, YTD Profit, YoY Profit %, Order quantity, YoY Quantity %, Market Share by Sales
+1. The KPI Banner shows YTD Total Sales, YoY Sales %, YTD Profit, YoY Profit %, Order quantity, YoY Quantity %, Market Share by Sales.
 2. Identifying the Percentage Difference of YTD (Year to Date) and PYTD (Previous Year to Date) Sales for the Top 10 Product Categories.
 3. Created a Bump chart in Order to Rank the Regions included in the data with respect to Order Quantity.
 
 ## Dataset
-The dataset is a single excel file consisting of Customer Details, Customer segment, Product category name, Order Date, Order Region, Quantity, Sales and Profit
+The dataset is a single excel file consisting of Customer Details, Customer segment, Product category name, Order Date, Order Region, Quantity, Sales and Profit.
 
 ## Calculated fields used
-Nineteen calculated fields were used in total. The Prominent ones include YTD Total Sales, YoY Sales %, YTD Profit, YoY Profit %, Order quantity, YoY Quantity %.
+Nineteen calculated fields were used in total. The Prominent ones include YTD Total Sales, PYTD Total Sales, YoY Sales %, YTD Profit, PYTD Profit, YoY Profit %, YTD Quantity, PYTD Quantity, YoY Quantity %.
 
 ### Calculated Fields for Sales KPI
 ![image](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/579e1d33-5c3f-4955-acac-91ab82f7cbbc)
@@ -50,9 +50,9 @@ Nineteen calculated fields were used in total. The Prominent ones include YTD To
 
 ## Dashboard Insights
 
-1. SUVs and Hatchback model cars made the maximum YTD sales.
-2. Pale white color is the most preferred color of the customers ireespective of any brand.
-3. Chevrolet has sold the most cars and made the Maximum YTD car sales.
+1. USCA Region is constantly having lowest ranks in terms of order quantity irrespective of the product category.
+2. Most of the top 10 selling products have faced decline in sales for the year 2017 compared to 2016.
+3. Latin America and Europe have the highest market share at 45.86% and 43.37% respectively.
 
 
 
