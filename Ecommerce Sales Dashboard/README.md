@@ -14,7 +14,7 @@ You can view the dashboard on my Tableau viz website : https://public.tableau.co
 ## Dataset
 The dataset is a single excel file consisting of Customer Details, Customer segment, Product category name, Order Date, Order Region, Quantity, Sales and Profit
 
-## Calculated field used
+## Calculated fields used
 Nineteen calculated fields were used in total. The Prominent ones include YTD Total Sales, YoY Sales %, YTD Profit, YoY Profit %, Order quantity, YoY Quantity %.
 
 ### Calculated Fields for Sales KPI
