@@ -15,7 +15,7 @@ You can view the dashboard on my Tableau viz website : https://public.tableau.co
 ## Dataset
 The dataset is a single excel file consisting of Dealer name, Company, Engine and Transmission type, Color and Dealer Region.
 
-## Calculated field used
+## Calculated fields used
 Nine calculated fields were used in total. These include YTD Total Sales, YTD Cars sold, YTD Average price, PYTD Total Sales, PYTD Cars sold, PYTD Average price, YoY Sales growth, YoY Cars sold growth and YoY average growth. 
 
 ![Sales 1](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/807a3e48-1bc2-41cb-bb25-c9fb6dc04675)
