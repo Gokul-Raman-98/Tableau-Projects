@@ -1,5 +1,5 @@
 # TABLEAU PROJECT | CAR SALES DASHBOARD
-You can view the dashboard on my Tableau viz website https://public.tableau.com/app/profile/gokul.raman2963/viz/CarSalesDashboard_17123092469560/CarSalesDashboard
+You can view the dashboard on my Tableau viz website : https://public.tableau.com/app/profile/gokul.raman2963/viz/CarSalesDashboard_17123092469560/CarSalesDashboard
 
 ![Tableau Dashboard](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/0c253ebf-c47d-4e65-b94d-72970d2be015)
 
