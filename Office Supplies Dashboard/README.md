@@ -57,7 +57,7 @@ Twenty two Calculated Fields were used in total. The prominent ones included Cur
 ![image](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/3d88bb05-c10a-49cc-946b-b86ab1260fe7)
 
 ### Calculated fields for Profit Sparkline
-![image](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/e3b4febc-43e1-4f72-ad3b-a74d7bf07a7f)https://www.youtube.com/watch?v=8_eVFXUGebA
+![image](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/e3b4febc-43e1-4f72-ad3b-a74d7bf07a7f)
 
 ### Calculated fields for Quantity Sparkline
 ![image](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/092da0b4-6696-4310-92a5-30fd2831684d)
