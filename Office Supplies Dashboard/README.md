@@ -16,7 +16,7 @@ You can view the dashboard on my Tableau viz website : https://public.tableau.co
 8. Identifying the person making highest sales in USA.
 
 ## Dataset
-1.The dataset is a single excel file consisting of Order Details, Shipping Details, Cutomer Details, Customer Segemnt, Country Details, Product Category, Sales Quantity, Profit and Regional Managers list.
+1. The dataset is a single excel file consisting of Order Details, Shipping Details, Cutomer Details, Customer Segemnt, Country Details, Product Category, Sales Quantity, Profit and Regional Managers list.
 2. Another hexmap file is used containing the name of the states in USA.
 
 ![image](https://github.com/Gokul-Raman-98/Tableau-Projects/assets/168402268/668e5d75-c690-440b-9d28-891c3315a918)
